@@ -36,9 +36,9 @@ Nasze działanie opiera się na prostym założeniu — **intelekt wyprzedza kap
 
 2. **Burza mózgów, analiza, planowanie oraz praca twórcza** – repozytorium służy jako przestrzeń do zgłaszania i szerokiej analizy pomysłów i możliwości. 
 
-3. **Krystalizacja genialnych idei** – cały proces opiera się o bezwarunkowy intelekt i pracę merytoryczną, z pełnym skupieniem nad tym, aby wyłuskać spójne, genialne koncepcję np. zautomatyzowana produkcja rybna???
+3. **Krystalizacja genialnych idei** – cały proces opiera się o bezwarunkowy intelekt i pracę merytoryczną. Specjaliści tworzą niezwykle precyzyjne projekty technologiczne (np. zautomatyzowana produkcja żywności/aquaponika), które są fundamentem pod dalszą realizację.
 
-4. **Kapitał w służbie idei** – środki finansowe będą gromadzone, jednak zostaną uruchomione **dopiero na końcu**, kiedy genialny pomysł będzie gotowy do konkretnej realizacji. 
+4. **Kapitał w służbie idei i samonapędzająca się gospodarka** – przy minimalnych nakładach uruchamiana jest produkcja maksymalnie autonomiczna, sterowana przez AI i zasilana z odnawialnych źródeł energii (OZE). Wygenerowany produkt i zysk wracają do systemu, napędzając dalszy rozwój i skalowanie projektów. Docelowym punktem tego modelu jest stworzenie samowystarczalnej gospodarki technologicznej, która pozwoli na finansowanie **Dochodu Gwarantowanego (UBI)**.
 
 5. **Opiekunowie Projektu (Nobilitacja)** – w miarę rozwoju inicjatywy, do jej struktury będą wybierani opiekunowie poszczególnych składowych lub całych wyodrębnionych projektów. Będą oni wyłaniani wyłącznie spośród najbardziej zaangażowanych twórców, którzy mogą wykazać się największą pracą i realnymi dokonaniami na rzecz repozytorium. Zarówno wybór na tę funkcję, jak i samo jej pełnienie, będzie dla powierzonych osób najwyższym wyrazem uznania i nobilitacją. Wspólnie tworzymy przestrzeń, w której liczą się wyłącznie dokonania, kompetencje i idea, a bycie liderem to zaszczyt.
 
