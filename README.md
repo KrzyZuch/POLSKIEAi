@@ -14,6 +14,7 @@ Aby realnie odpowiedzieć na najpilniejsze problemy gospodarcze i społeczne, na
 2. **Medycyna:** Zastosowanie AI w diagnostyce, telemedycynie, wynajdywaniu terapii oraz w logistyce ochrony zdrowia, podnosząc skuteczność i dostępność dla każdego obywatela.
 3. **Energia:** Opracowanie systemów planowania, magazynowania i dystrybucji zielonej oraz konwencjonalnej energii, by zminimalizować jej straty i zoptymalizować gospodarkę sieciową.
 4. **Optymalizacja zużycia zasobów strategicznych:** Racjonalne, poparte zaawansowaną analizą danych, zarządzanie wodą, surowcami i ziemią, eliminujące gospodarkę rabunkową.
+5. **Logistyka i transport:** Wykorzystanie AI do inteligentnego zarządzania łańcuchami dostaw, trasami przesyłowymi i komunikacją zbiorową w celu minimalizacji czasu, kosztów i śladu węglowego.
 
 ## Dlaczego powstał ten projekt? (Nasza motywacja)
 
