@@ -22,6 +22,10 @@ Nasze działanie opiera się na prostym założeniu — **intelekt wyprzedza kap
 
 **Najważniejsze w tworzeniu NARODOWYCH SIŁ INTELEKTUALNYCH nie są pieniądze na start, lecz bezcenny, realny wysiłek intelektualny.**
 
+## Zapotrzebowanie marketingowe i promocyjne
+
+Szukamy specjalistów z zakresu marketingu, PR i budowania społeczności, którzy na zasadach odpowiedzialności za wybrany obszar pomogą promować naszą inicjatywę. Sprawdź plik [MARKETING.md](MARKETING.md), aby poznać podstawowy zakres działań do obsadzenia.
+
 **Dołącz, jeśli chcesz współtworzyć przyszłość Polskiej Gospodarki!**
 
 https://github.com/Krzyzuch/POLSKIEAi
