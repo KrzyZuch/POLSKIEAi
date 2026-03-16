@@ -8,6 +8,14 @@ Naszym celem jest zbudowanie AUTOMATYCZNEGO SYSTEMU PRODUKCJI DÓBR I ŻYWNOŚCI
 
 Inicjatywa ma charakter całkowicie oddolny: nie jest zależna od żadnych struktur rządowych, ani od żadnych konkurencyjnych firm zewnętrznych. Kluczowe jest tutaj pełne zaangażowanie intelektualne i współpraca ponad podziałami.
 
+## Dlaczego powstał ten projekt? (Nasza motywacja)
+
+Głównym powodem powstania **NARODOWYCH SIŁ INTELEKTUALNYCH** jest zagrożenie wynikające z rozproszenia i czysto komercyjnego wykorzystania sztucznej inteligencji. 
+
+Jeżeli każdy inteligentny i przedsiębiorczy człowiek zacznie indywidualnie i na własną rękę budować małe, prywatne biznesy wspierane przez AI, to za niedługi czas internet stanie się jednym wielkim chaosem. Powstaną miliony instancji sztucznej inteligencji, z których każda będzie działać w zamknięciu, na rzecz indywidualnego zysku swojej jednostki. Zamiast rozwiązywać wielkie bolączki ludzkości i państwa, ogromny potencjał AI oraz gigantyczne ilości energii będą **marnotrawione wyłącznie na wzajemną, bezcelową konkurencję**.
+
+Jeśli chcemy konstruktywnie i mądrze wykorzystać tę potężną siłę, automatyzację i sztuczną inteligencję, musimy **wspólnie zaplanować i wdrożyć procesy, które zadziałają z korzyścią dla ogółu społeczeństwa**. Właśnie po to gromadzimy się w jednej inicjatywie – by nie rozpraszać potencjału na rywalizację rynkową maszyn, lecz połączyć siły i wygospodarować realne zasoby na WSPÓLNE DOBRO.
+
 ## Tryb działania i proces twórczy
 
 Nasze działanie opiera się na prostym założeniu — **intelekt wyprzedza kapitał**:
