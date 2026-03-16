@@ -8,6 +8,13 @@ Naszym celem jest zbudowanie AUTOMATYCZNEGO SYSTEMU PRODUKCJI DÓBR I ŻYWNOŚCI
 
 Inicjatywa ma charakter całkowicie oddolny: nie jest zależna od żadnych struktur rządowych, ani od żadnych konkurencyjnych firm zewnętrznych. Kluczowe jest tutaj pełne zaangażowanie intelektualne i współpraca ponad podziałami.
 
+## Główne osie rozwoju i obszary działań AI
+Aby realnie odpowiedzieć na najpilniejsze problemy gospodarcze i społeczne, nasza uwaga i moc obliczeniowa będą początkowo skupione na najważniejszych systemach podtrzymujących państwo:
+1. **Żywność:** Automatyzacja, robotyzacja i optymalizacja produkcji rolno-spożywczej (np. inteligentna produkcja i dystrybucja, która obniża koszty wyżywienia społeczeństwa).
+2. **Medycyna:** Zastosowanie AI w diagnostyce, telemedycynie, wynajdywaniu terapii oraz w logistyce ochrony zdrowia, podnosząc skuteczność i dostępność dla każdego obywatela.
+3. **Energia:** Opracowanie systemów planowania, magazynowania i dystrybucji zielonej oraz konwencjonalnej energii, by zminimalizować jej straty i zoptymalizować gospodarkę sieciową.
+4. **Optymalizacja zużycia zasobów strategicznych:** Racjonalne, poparte zaawansowaną analizą danych, zarządzanie wodą, surowcami i ziemią, eliminujące gospodarkę rabunkową.
+
 ## Dlaczego powstał ten projekt? (Nasza motywacja)
 
 Głównym powodem powstania **NARODOWYCH SIŁ INTELEKTUALNYCH** jest zagrożenie wynikające z rozproszenia i czysto komercyjnego wykorzystania sztucznej inteligencji. 
